@@ -1,0 +1,15 @@
+2025-08-15 22:04:09,694 - INFO - [init_database:170] - Database initialized successfully
+2025-08-15 22:04:21,014 - INFO - [start_capture:727] - Enhanced network analysis started
+2025-08-15 22:04:21,030 - INFO - [create_socket:217] - Binding to local IP: 192.168.0.105
+2025-08-15 22:04:21,030 - INFO - [capture_packets:680] - Enhanced packet capture started with security monitoring
+2025-08-15 22:04:46,575 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:04:46,597 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:04:46,997 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:04:47,013 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:04:49,988 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:04:50,341 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:04:55,271 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:05:14,215 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:05:14,225 - WARNING - [add_threat_indicator:491] - THREAT DETECTED: PORT_SCAN from 192.168.0.105 - Scanned 4 ports
+2025-08-15 22:05:22,681 - INFO - [stop_capture:734] - Network analysis stopped
+2025-08-15 22:21:33,699 - INFO - [stop_capture:734] - Network analysis stopped
